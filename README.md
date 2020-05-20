@@ -12,4 +12,4 @@
 
 [23_The Greedy Dog](doc/23_TheGreedyDog.md)
 
-[24_The Rabbit's Tale](doc/24_TheRabbit'sTale.md)s
+[24_The Rabbit's Tales](doc/24_TheRabbit'sTale.md)
