@@ -1,4 +1,4 @@
-24-The Rabbit's Tale
+## 24-The Rabbit's Tale
 
 
 
@@ -127,7 +127,7 @@ Rabbit couldn’t move.
 
 
 
-▲He ran to Owl. 
+He ran to Owl. 
 
 “There’s no room for me! ”
 
