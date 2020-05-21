@@ -12,8 +12,6 @@
 
 4 Very First Reading Library Captain Mac马克船长
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 5 Very First Reading Library A Bus For Miss Moss摩斯小姐的汽车
 
 6 Very First Reading Library The Perfect Pet完美宠物
@@ -112,22 +110,3 @@
 
 
 
-
-
-[19_The Circus Under The Sea](docs/19_TheCircusUnderTheSea.md)
-
-[20_The Monster Diner](docs/20_TheMonsterDiner.md)
-
-[21_Knight Fight](docs/21_KnightFight.md)
-
-[22_Mr Mystery](docs/22_MrMystery.md)
-
-[23_The Greedy Dog](docs/23_TheGreedyDog.md)
-
-[24_The Rabbit's Tale](docs/24_TheRabbit'sTale.md)s
-=======
-[24_The Rabbit's Tales](doc/24_TheRabbit'sTale.md)
->>>>>>> 6ee95afe23112c9a145cdbb54df8ce29fab887e5
-=======
-[24_The Rabbit's Tales](doc/24_TheRabbit'sTale.md)
->>>>>>> 6ee95afe23112c9a145cdbb54df8ce29fab887e5
