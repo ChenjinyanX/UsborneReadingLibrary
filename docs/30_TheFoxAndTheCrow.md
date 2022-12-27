@@ -88,6 +88,8 @@ Fox snapped it up.
 
 狐狸一口接住了奶酪。
 
+snap是用力咬的意思
+
 
 
 
@@ -98,6 +100,8 @@ Fox snapped it up.
 Fox laughed.
 
 狐狸哈哈大笑。
+
+laugh是大笑、嘲笑的意思
 
 
 

@@ -1,59 +1,521 @@
-28- The Ant and the Grasshopper
+# 28- The Ant and the Grasshopper
+
+Grasshopper sings in the sun. 
+
+
+
+蚱蜢正在阳光底下唱歌。
 
 
 
 
 
-Grasshopper sings in the sun.
-蚱蜢在阳光下唱着歌。
 
 
-Ant works.
-蚂蚁在工作着。
+
+Ant works
 
 
-"Play with me, " says Grasshopper.
-蚱蜢说，“和我一起玩耍吧！”
-"I can't, "says Ant.
-蚂蚁回答它，“我不能，”
+
+蚂蚁正在忙
 
 
-"But it's summer!"
- 蚱蜢又说，“但现在是夏天啊。”
-"I need food for the winter."
-蚂蚁回答， “我需要过冬的食物。”
+
+小朋友们，如果你看见妈妈爸爸在忙
+
+你就可以说：
+
+Mom works
+
+Dad works
 
 
-"Winter will come, "says Ant.
- “冬天会来的，”蚂蚁说。
-"And you will be hungry."
-“到时候你会饿的。”
 
 
-Grasshopper laughs and sings.
-蚱蜢一边笑着，一边唱着。
-Ant carries more corn.
-蚂蚁携带了很多玉米。
 
 
-Winter comes.
-冬天到来了。
 
 
-Ant is happy.
+ "Play with me!" 
+
+says Grasshopper. 
+
+
+
+"I can't," says ant. 
+
+
+
+“跟我玩儿！”
+
+蚱蜢说。
+
+“不行！”蚂蚁说
+
+
+
+微米姐姐经常在英文故事里看到 
+
+“I can't ...”
+
+这样的字眼儿，
+
+如果你想说你不会画画的话，
+
+你就可以说：
+
+I can't draw. 
+
+如果你不会游泳的话，
+
+你就可以说：
+
+I can't swim. 
+
+
+
+
+
+
+
+
+
+
+I need food for the winter. 
+
+But it's summer! 
+
+
+
+我需要准备冬天的食物。
+
+但是现在还是夏天！
+
+
+
+小朋友们，这一段里出现了两个关于季节的单词：
+
+winter winter winter
+
+summer summer summer
+
+
+
+
+
+
+
+
+
+
+"Winter will come." 
+
+says ant. 
+
+
+
+"And you will be hungry." 
+
+
+
+“冬天会来的。”
+
+蚂蚁说
+
+“而你会很饿的。”
+
+
+
+这里有一个句型：
+
+I will...
+
+我会。。。
+
+
+
+
+
+
+
+
+Grasshopper laughs and sings. 
+
+Ant carries more corns.  
+
+
+
+蚱蜢边笑着鞭唱着歌。
+
+蚂蚁每天都在搬玉米。
+
+
+
+小朋友们，corn就是玉米的意思哦！
+
+
+
+
+
+
+
+
+
+
+
+
+Winter comes. 
+
+
+
+冬天来了
+
+
+
+
+
+
+Ant is happy. 
+
+
+
 蚂蚁很高兴。
 
 
+
+
+
+
+
 Grasshopper is cold...
-蚱蜢非常冷...
-...and very hungry.
-...而且还很饿。
+
+...and very hungry. 
 
 
-"Come inside, " says Ant.
-蚂蚁说，“快到里面来！”
-"Thank you, " says Grasshopper.
-蚱蜢说到，“谢谢你！”
 
-"Next summer I'll work too."
-蚱蜢继续说，“明年夏天我也要好好工作了！”
+蚱蜢很冷...
+
+...也非常的饿。
+
+
+
+这里就在描写蚱蜢的动作，
+
+他很饿很冷。
+
+
+
+
+
+
+
+
+"Come inside," says Ant. 
+
+"Thank you." 
+
+says Grasshopper. 
+
+
+
+“进来吧。”蚂蚁说
+
+“谢谢！”
+
+蚱蜢说。
+
+
+
+当有人跟你说
+
+come inside的时候，
+
+就是要请你到一个地方
+
+有的时候我们也会说
+
+Come outside. 
+
+
+
+
+
+
+
+
+
+
+
+
+"Next summer I'll work, too." 
+
+
+
+下一个夏天
+
+我也会努力的！
+
+
+
+现在蚱蜢终于明白了，
+
+相信他学到了宝贵的一课！Grasshopper sings in the sun. 
+
+
+
+蚱蜢正在阳光底下唱歌。
+
+
+
+
+
+
+
+
+Ant works
+
+
+
+蚂蚁正在忙
+
+
+
+小朋友们，如果你看见妈妈爸爸在忙
+
+你就可以说：
+
+Mom works
+
+Dad works
+
+
+
+
+
+
+
+
+ "Play with me!" 
+
+says Grasshopper. 
+
+
+
+"I can't," says ant. 
+
+
+
+“跟我玩儿！”
+
+蚱蜢说。
+
+“不行！”蚂蚁说
+
+
+
+微米姐姐经常在英文故事里看到 
+
+“I can't ...”
+
+这样的字眼儿，
+
+如果你想说你不会画画的话，
+
+你就可以说：
+
+I can't draw. 
+
+如果你不会游泳的话，
+
+你就可以说：
+
+I can't swim. 
+
+
+
+
+
+
+
+
+
+
+I need food for the winter. 
+
+But it's summer! 
+
+
+
+我需要准备冬天的食物。
+
+但是现在还是夏天！
+
+
+
+小朋友们，这一段里出现了两个关于季节的单词：
+
+winter winter winter
+
+summer summer summer
+
+
+
+
+
+
+
+
+
+
+"Winter will come." 
+
+says ant. 
+
+
+
+"And you will be hungry." 
+
+
+
+“冬天会来的。”
+
+蚂蚁说
+
+“而你会很饿的。”
+
+
+
+这里有一个句型：
+
+I will...
+
+我会。。。
+
+
+
+
+
+
+
+
+Grasshopper laughs and sings. 
+
+Ant carries more corns.  
+
+
+
+蚱蜢边笑着鞭唱着歌。
+
+蚂蚁每天都在搬玉米。
+
+
+
+小朋友们，corn就是玉米的意思哦！
+
+
+
+
+
+
+
+
+
+
+
+
+Winter comes. 
+
+
+
+冬天来了
+
+
+
+
+
+
+Ant is happy. 
+
+
+
+蚂蚁很高兴。
+
+
+
+
+
+
+
+Grasshopper is cold...
+
+...and very hungry. 
+
+
+
+蚱蜢很冷...
+
+...也非常的饿。
+
+
+
+这里就在描写蚱蜢的动作，
+
+他很饿很冷。
+
+
+
+
+
+
+
+
+"Come inside," says Ant. 
+
+"Thank you." 
+
+says Grasshopper. 
+
+
+
+“进来吧。”蚂蚁说
+
+“谢谢！”
+
+蚱蜢说。
+
+
+
+当有人跟你说
+
+come inside的时候，
+
+就是要请你到一个地方
+
+有的时候我们也会说
+
+Come outside. 
+
+
+
+
+
+
+
+
+
+
+
+
+"Next summer I'll work, too." 
+
+
+
+下一个夏天
+
+我也会努力的！
+
+
+
+现在蚱蜢终于明白了，
+
+相信他学到了宝贵的一课！
